@@ -345,6 +345,11 @@
 	</dependencies>
 	<repositories>
 		<repository>
+			<id>bedatadriven-public</id>
+			<name>BeDataDriven</name>
+			<url>https://nexus.bedatadriven.com/content/groups/public</url>
+		</repository>
+		<repository>
 			<id>soot-snapshot</id>
 			<name>Soot snapshot server</name>
 			<url>https://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/</url>
